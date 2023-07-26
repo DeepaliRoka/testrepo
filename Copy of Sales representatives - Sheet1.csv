@@ -1,0 +1,21 @@
+ID,Name,Email,Gender,Team,Product_Category,Product_Name,Date_Joined,Date_Left,Units_Sold,Cumulative_Revenue_Lacs,Product_Description
+1,Anil Sharma,anil.sharma@saasstore.in,M,North India,CRM,SmallBizCRM,2021-02-14,2022-08-15,150,90,CRM for small businesses
+2,Sunita Malhotra,sunita.malhotra@saasstore.in,F,South India,Project Management,AgileMaster,2020-11-05,2022-03-30,120,144,Agile project management tool
+3,Rekha Gupta,rekha.gupta@saasstore.in,F,North India,Marketing Automation,EmailPro,2020-05-10,2022-10-22,90,81,Email marketing automation platform
+4,Ramesh Patel,ramesh.patel@saasstore.in,M,West India,Helpdesk,ITSupportDesk,2021-07-30,2023-01-15,175,245,Helpdesk software for IT support
+5,Archana Singh,archana.singh@saasstore.in,F,South India,CRM,MediumBizCRM,2019-08-01,2021-11-20,160,192,CRM for medium-sized businesses
+6,Vijay Kumar,vijay.kumar@saasstore.in,M,East India,Project Management,KanbanFlow,2020-03-20,2022-07-18,130,156,Kanban-based project management tool
+7,Lalita Joshi,lalita.joshi@saasstore.in,F,North India,Marketing Automation,SocialMediaPro,2021-01-01,2022-06-30,95,85.5,Social media marketing automation tool
+8,Pradeep Menon,pradeep.menon@saasstore.in,M,West India,Helpdesk,CustomerSupportDesk,2020-12-20,2023-02-28,180,252,Helpdesk software for customer support
+9,Deepa Nair,deepa.nair@saasstore.in,F,South India,CRM,EnterpriseCRM,2021-04-10,2022-08-25,140,168,CRM for large enterprises
+10,Rajesh Khanna,rajesh.khanna@saasstore.in,M,East India,Project Management,TeamCollab,2019-06-01,2021-07-31,110,132,Collaborative project management tool
+11,Anil Sharma,anil.sharma@saasstore.in,M,North India,CRM,SmallBizCRM,2021-02-14,2022-08-15,150,90,CRM for small businesses
+12,Sunita Malhotra,sunita.malhotra@saasstore.in,F,South India,Project Management,AgileMaster,2020-11-05,2022-03-30,120,144,Agile project management tool
+13,Rekha Gupta,rekha.gupta@saasstore.in,F,North India,Marketing Automation,EmailPro,2020-05-10,2022-10-22,90,81,Email marketing automation platform
+14,Ramesh Patel,ramesh.patel@saasstore.in,M,West India,Helpdesk,ITSupportDesk,2021-07-30,2023-01-15,175,245,Helpdesk software for IT support
+15,Archana Singh,archana.singh@saasstore.in,F,South India,CRM,MediumBizCRM,2019-08-01,2021-11-20,160,192,CRM for medium-sized businesses
+16,Vijay Kumar,vijay.kumar@saasstore.in,M,East India,Project Management,KanbanFlow,2020-03-20,2022-07-18,130,156,Kanban-based project management tool
+17,Lalita Joshi,lalita.joshi@saasstore.in,F,North India,Marketing Automation,SocialMediaPro,2021-01-01,2022-06-30,95,85.5,Social media marketing automation tool
+18,Pradeep Menon,pradeep.menon@saasstore.in,M,West India,Helpdesk,CustomerSupportDesk,2020-12-20,2023-02-28,180,252,Helpdesk software for customer support
+19,Deepa Nair,deepa.nair@saasstore.in,F,South India,CRM,EnterpriseCRM,2021-04-10,2022-08-25,140,168,CRM for large enterprises
+20,Rajesh Khanna,rajesh.khanna@saasstore.in,M,East India,Project Management,TeamCollab,2019-06-01,2021-07-31,110,132,Collaborative project management tool
